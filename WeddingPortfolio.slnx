@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="weddingportfolio.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
