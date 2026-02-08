@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "dev:inspect": "set NODE_OPTIONS=--inspect=9229 && next dev"
+  }
+}
