@@ -1,0 +1,9 @@
+{
+  "name": "wedding-portfolio",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev": "npm --prefix apps/web run dev",
+    "dev:inspect": "npm --prefix apps/web run dev:inspect"
+  }
+}
