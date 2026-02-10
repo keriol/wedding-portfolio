@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "home": "Home",
+    "program": "Programma",
+    "location": "Location",
+    "faq": "FAQ",
+    "rsvp": "RSVP"
+  },
+  "home": {
+    "title": "Marco & Marita",
+    "subtitle": "Non vediamo l’ora di festeggiare con voi."
+  }
+}
