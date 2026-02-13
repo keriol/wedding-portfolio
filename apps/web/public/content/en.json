@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "home": "Home",
+    "program": "Program",
+    "location": "Location",
+    "faq": "FAQ",
+    "rsvp": "RSVP"
+  },
+  "home": {
+    "title": "Marco & Marita",
+    "subtitle": "We can’t wait to celebrate with you."
+  }
+}
